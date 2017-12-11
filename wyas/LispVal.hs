@@ -9,7 +9,6 @@ module LispVal {
 import Data.Text as T
 import Data.Map as Map
 import Data.Typeable
-
 import Control.Monad.Except
 import Control.Monad.Reader
 
