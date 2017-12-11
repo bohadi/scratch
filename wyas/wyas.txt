@@ -1,0 +1,10 @@
+write yourself a scheme (in 48 hours)
+
+Main.hs
+Repl.hs
+Parser.hs   text -> tokens -> lispval
+LispVal.hs  lispval and eval monad
+Eval.hs     eval function
+Prims.hs    library fns
+Pretty.hs   pretty print errors
+
